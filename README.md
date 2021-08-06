@@ -1,8 +1,11 @@
-//install packages
+Install packages
+--
 npm i
 
-//start the bot
+Start the bot
+--
 npm start
 
-//test
+Test
+--
 npm test
